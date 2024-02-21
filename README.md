@@ -26,10 +26,6 @@ pip install requests
    
 `
 python weather_forecaster.py latitude longitude [--interval INTERVAL] [--periods PERIODS]
-latitude (float): Latitude coordinate of the location.
-longitude (float): Longitude coordinate of the location.
---interval (int, optional): Interval (in hours) between forecasts. Default is 1.
---periods (int, optional): Number of forecast periods to display. Default is 24.
 `
 Example:
 `
