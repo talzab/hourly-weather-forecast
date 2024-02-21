@@ -7,7 +7,7 @@ This Python script uses the National Weather Service API to provide an easy-to-u
 2. Clone this repository to your local machine:
    
 `
-git clone https://github.com/your-username/weather-forecaster.git
+git clone https://github.com/your-username/hourly-weather-forecaster.git
 `
 
 3. Navigate to the project directory:
