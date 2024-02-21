@@ -27,6 +27,7 @@ pip install requests
 `
 python weather_forecaster.py latitude longitude [--interval INTERVAL] [--periods PERIODS]
 `
+
 Example:
 `
 python weather_forecaster.py 40.7128 -74.0060 --interval 2 --periods 12
