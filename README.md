@@ -5,21 +5,25 @@ This Python script uses the National Weather Service API to provide an easy-to-u
 1. Make sure you have Python installed on your system.
    
 2. Clone this repository to your local machine:
+   
 `
 git clone https://github.com/your-username/weather-forecaster.git
 `
 
 3. Navigate to the project directory:
+   
 `
 cd hourly-weather-forecaster
 `
 
 4. Install the required libraries using:
+   
 `
 pip install requests
 `
 
 5. Run the script with the following command:
+   
 `
 python weather_forecaster.py latitude longitude [--interval INTERVAL] [--periods PERIODS]
 latitude (float): Latitude coordinate of the location.
